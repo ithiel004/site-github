@@ -18,7 +18,7 @@
 
 <body>
   <div class="overlay"></div>
-  <?php require_once("../!isp/header.php") ?>
+  <?php require_once("../isp/header.php") ?>
   <h2 class="elementor-heading-title elementor-size-default">Masters</h2>
   <br>
   <section class="pop">
@@ -1386,7 +1386,7 @@
  
   <button id="scroll-to-top"><i class="bi bi-arrow-up-circle-fill"></i></button>
 
-  <?php require_once("../!isp/footer.php") ?>
+  <?php require_once("../isp/footer.php") ?>
 
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"

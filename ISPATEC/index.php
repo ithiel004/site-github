@@ -23,7 +23,7 @@
 
 <body>
   <div class="overlay"></div>
-  <?php require_once("../!isp/header.php") ?>
+  <?php require_once("../isp/header.php") ?>
 
   <section>
     <div class="picture">
@@ -194,7 +194,7 @@
   <button id="scroll-to-top"><i class="bi bi-arrow-up-circle-fill"></i></button>
 
   <!-- FOoter -->
-  <?php require_once("../!isp/footer.php") ?>
+  <?php require_once("../isp/footer.php") ?>
 
   <!-- FOoter -->
 

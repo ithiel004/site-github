@@ -22,7 +22,7 @@
 <body>
 <span class="loader"></span>
     <div class="overlay"></div>
-    <?php require_once("../!isp/header.php") ?>
+    <?php require_once("../isp/header.php") ?>
 
 <section class="tex">
 
@@ -70,7 +70,7 @@
     </label>
     <button id="scroll-to-top"><i class="bi bi-arrow-up-circle-fill"></i></button>
     </section>
-    <?php require_once("../!isp/footer.php") ?>
+    <?php require_once("../isp/footer.php") ?>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
