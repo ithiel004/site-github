@@ -243,6 +243,7 @@ left: 0;
     display: none;
   }
 }
+
 @media screen and (min-width: 769px) and (max-width: 870px) {
   .pop img {
     margin-left: 10rem;
@@ -414,6 +415,12 @@ img{
   }
 
   
+ @media screen and (max-width: 500px) {   
+   .card-img-top{
+    display: none;
+  }
+    }
+ 
   
    /* Footer */
  .footer .container{

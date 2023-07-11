@@ -22,7 +22,7 @@
       </div>
       <div class="carousel-item ">
         <div class="carousel-background">
-          <img src="./image/Is.jpg" alt="slider_1">
+          <img style="object-fit: cover;" src="./image/is16.jpg" alt="slider_1">
           <div class="carousel-container">
             <div class="carousel-content-container">
               <h2>ISPATEC</h2>
@@ -232,7 +232,7 @@
 
 <div class="contenu">
   <div class="hcal">
-    <h2 class="hcol">Nous sommes aussi</h2>
+    <h2 class="hcol">Nous avons aussi</h2>
   </div>
   <div class="flex-container">
     <div class="element bd">
@@ -260,14 +260,14 @@
 <section class="about wall">
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-6">
-        <p><i class="bi bi-stars"></i> En tant qu'Université, nous sommes fiers de l'excellence que nous apportons
+      <div class="col-md-6 llp">
+        <p ><i class="bi bi-stars"></i> En tant qu'Université, nous sommes fiers de l'excellence que nous apportons
           à toutes les facettes de notre
           travail. Cet engagement envers l'excellence est réfléchi dans les résultats obtenus par nos élèves, comme en
           témoigne leur capacité à développer ce site de manière autonome et complète.</p>
 
       </div>
-      <div class="col-md-6">
+      <div class="col-md-6 llp">
         <div class="about-content">
           <p><i class="bi bi-trophy-fill"></i>
             Nous considérons que cet accomplissement est une preuve concrète de notre détermination à fournir une
@@ -276,7 +276,7 @@
           </p>
         </div>
       </div>
-      <div class=" ts">
+      <div class=" ts llp">
         <p> <i class="bi bi-patch-check-fill"></i> En tant qu'Université, nous sommes convaincus que notre engagement
           envers l'excellence est contagieux.
           Nous invitons donc tous ceux qui cherchent à devenir les meilleurs dans leur domaine à nous rejoindre et à

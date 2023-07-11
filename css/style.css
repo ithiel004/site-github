@@ -505,7 +505,14 @@ hero Section
     border-color:#0d2d62 ;
     margin-left: 0
   }
-  
+  .llp{
+    transition:  .4s ease;
+  }
+  .llp:hover{
+    background: #bbeb;
+    padding-left: 8px;
+    border-radius: 4px;
+  }
  .buttons .button3{
     font-weight: 600;
     font-style: 14px;
@@ -816,61 +823,6 @@ text-align: center;
   border-color:#0d2d62 ;
   margin-left:48%;
 }
-/* .loader {
-  width: 48px;
-  height: 48px;
-  border-radius: 50%;
-  display: inline-block;
-  position: relative;
-  border: 3px solid;
-  border-color: #183153 #183153 transparent transparent;
-  box-sizing: border-box;
-  animation: rotation 1s linear infinite;
-  
-}
-.loader::after,
-.loader::before {
-  content: '';  
-  box-sizing: border-box;
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  margin: auto;
-  border: 3px solid;
-  border-color: transparent transparent #b04b02 #b04b02;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  box-sizing: border-box;
-  animation: rotationBack 0.5s linear infinite;
-  transform-origin: center center;
-}
-.loader::before {
-  width: 32px;
-  height: 32px;
-  border-color: #FFF #FFF transparent transparent;
-  animation: rotation 1.5s linear infinite;
-}
-    
-@keyframes rotation {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-} 
-@keyframes rotationBack {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(-360deg);
-  }
-} */
-        
 
 
 

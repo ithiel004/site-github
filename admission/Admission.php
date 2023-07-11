@@ -63,10 +63,10 @@
         <li>Deux photos d'identité.</li>
     </ul>
     </section>
-    <label>
-    <a href="tel:+22377761112"> Besoin de conseil pour mieux s'orienter?</a><br>
-        Nos coaches et experts sont à votre disposition pour vous permettre de savoir quel cursus répond le mieux à vos
-        aspirations professionelles et à vos projets de vie.
+    <label class="bobi">
+    <a class="bei" href="tel:+22377761112">Besoin de conseil pour mieux s'orienter?</a><br>
+       <p> Nos coaches et experts sont à votre disposition pour vous permettre de savoir quel cursus répond le mieux à vos
+        aspirations professionelles et à vos projets de vie.</p>
     </label>
     <button id="scroll-to-top"><i class="bi bi-arrow-up-circle-fill"></i></button>
     </section>

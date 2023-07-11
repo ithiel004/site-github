@@ -127,7 +127,7 @@
 			  <p>Photo d'élèves<p>
 			</figcaption>
 		  </figure>
-	
+
 		   
 		</div>
 	  </div>

@@ -7,10 +7,12 @@
     <title>Document</title>
 </head>
 <body>
-    <?php 
-     echo $_POST["Prenom"];
-     
-    
-    ?>
+       <form method="POST" action="traitement.php">
+        <label for=""><input type="text" name="nom" placeholder="Nom"></label>
+        <label for=""><input type="text" name="prenom" placeholder="Prenom"></label>
+        <label for=""><input type="text" name="adresse" placeholder="Adresse"></label>
+        <label for=""><input type="email" name="email" placeholder="Email"></label>
+        <input type="submit" value="Envoyer">
+    </form>
 </body>
 </html>

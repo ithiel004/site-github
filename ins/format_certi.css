@@ -338,6 +338,12 @@ left: 0;
     text-decoration-line: underline;
   }
   
+  @media screen and (max-width: 500px) {   
+    .card-img-top{
+     display: none;
+   }
+     }
+
    /* Footer */
  .footer .container{
   max-width: 1170px;

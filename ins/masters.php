@@ -49,7 +49,7 @@
         <div>
          
          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal8">
-          Débouché
+          Débouchés
          </button>
          
          
@@ -57,7 +57,7 @@
            <div class="modal-dialog">
              <div class="modal-content">
                <div class="modal-header">
-                 <h1 class="modal-title fs-5" id="exampleModalLabel8">Débouché</h1>
+                 <h1 class="modal-title fs-5" id="exampleModalLabel8">Débouchés</h1>
                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                </div>
                <div class="modal-body">
@@ -183,7 +183,7 @@
         <div>
          
          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal10">
-          Débouché
+          Débouchés
          </button>
          
          
@@ -191,7 +191,7 @@
            <div class="modal-dialog">
              <div class="modal-content">
                <div class="modal-header">
-                 <h1 class="modal-title fs-5" id="exampleModalLabel10">Débouché</h1>
+                 <h1 class="modal-title fs-5" id="exampleModalLabel10">Débouchés</h1>
                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                </div>
                <div class="modal-body">
@@ -310,7 +310,7 @@
         <div>
          
          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal11">
-          Débouché
+          Débouchés
          </button>
          
          
@@ -318,7 +318,7 @@
            <div class="modal-dialog">
              <div class="modal-content">
                <div class="modal-header">
-                 <h1 class="modal-title fs-5" id="exampleModalLabel11">Débouché</h1>
+                 <h1 class="modal-title fs-5" id="exampleModalLabel11">Débouchés</h1>
                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                </div>
                <div class="modal-body">
@@ -437,14 +437,14 @@
   <div class="row row-cols-1 row-cols-md-3 g-0">
     <div class="col">
       <div class="card">
-        <img src="./buss_inter.jpg" class="card-img-top" alt="...">
+        <img src="./intern.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Business International</h5>
           <div class="d-flex justify-content-center">
           <div>
          
          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-          Débouché
+          Débouchés
          </button>
          
          
@@ -452,7 +452,7 @@
            <div class="modal-dialog">
              <div class="modal-content">
                <div class="modal-header">
-                 <h1 class="modal-title fs-5" id="exampleModalLabel">Débouché</h1>
+                 <h1 class="modal-title fs-5" id="exampleModalLabel">Débouchés</h1>
                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                </div>
                <div class="modal-body">
@@ -570,14 +570,14 @@
     </div>
     <div class="col">
       <div class="card">
-        <img src="./mark_com.jpg" class="card-img-top" alt="...">
+        <img src="./marrk.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Marketing de Communication</h5>
           <div class="d-flex justify-content-center">
           <div>
          
          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal1">
-          Débouché
+          Débouchés
          </button>
          
          
@@ -585,7 +585,7 @@
            <div class="modal-dialog">
              <div class="modal-content">
                <div class="modal-header">
-                 <h1 class="modal-title fs-5" id="exampleModalLabel1">Débouché</h1>
+                 <h1 class="modal-title fs-5" id="exampleModalLabel1">Débouchés</h1>
                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                </div>
                <div class="modal-body">
@@ -704,14 +704,14 @@
     </div>
     <div class="col">
       <div class="card">
-        <img src="./man_ressource.jpg" class="card-img-top" alt="...">
+        <img src="./gestionR.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Management des ressources humaines</h5>
           <div class="d-flex justify-content-center">
           <div>
          
          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal2">
-          Débouché
+          Débouchés
          </button>
          
          
@@ -719,7 +719,7 @@
            <div class="modal-dialog">
              <div class="modal-content">
                <div class="modal-header">
-                 <h1 class="modal-title fs-5" id="exampleModalLabel2">Débouché</h1>
+                 <h1 class="modal-title fs-5" id="exampleModalLabel2">Débouchés</h1>
                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                </div>
                <div class="modal-body">
@@ -855,7 +855,7 @@
           <div>
          
          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal4">
-          Débouché
+          Débouchés
          </button>
          
          
@@ -863,7 +863,7 @@
            <div class="modal-dialog">
              <div class="modal-content">
                <div class="modal-header">
-                 <h1 class="modal-title fs-5" id="exampleModalLabel4">Débouché</h1>
+                 <h1 class="modal-title fs-5" id="exampleModalLabel4">Débouchés</h1>
                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                </div>
                <div class="modal-body">
@@ -988,7 +988,7 @@
           <div>
          
 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal5">
- Débouché
+ Débouchés
 </button>
 
 
@@ -996,7 +996,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h1 class="modal-title fs-5" id="exampleModalLabel5">Débouché</h1>
+        <h1 class="modal-title fs-5" id="exampleModalLabel5">Débouchés</h1>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
@@ -1121,7 +1121,7 @@
           <div>
          
 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal6">
- Débouché
+ Débouchés
 </button>
 
 
@@ -1129,7 +1129,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h1 class="modal-title fs-5" id="exampleModalLabel6">Débouché</h1>
+        <h1 class="modal-title fs-5" id="exampleModalLabel6">Débouchés</h1>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
@@ -1254,7 +1254,7 @@
           <div>
          
 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal7">
- Débouché
+ Débouchés
 </button>
 
 
@@ -1262,7 +1262,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h1 class="modal-title fs-5" id="exampleModalLabel7">Débouché</h1>
+        <h1 class="modal-title fs-5" id="exampleModalLabel7">Débouchés</h1>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">

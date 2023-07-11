@@ -47,7 +47,7 @@
           <div>
          
          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-          Débouché
+          Débouchés
          </button>
          
          
@@ -97,7 +97,7 @@
           <div>
          
          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal1">
-          Débouché
+          Débouchés
          </button>
          
          
@@ -145,7 +145,7 @@
           <div>
          
          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal2">
-          Débouché
+          Débouchés
          </button>
          
          
@@ -193,7 +193,7 @@
           <div>
          
          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal3">
-          Débouché
+          Débouchés
          </button>
          
          
@@ -245,7 +245,7 @@
           <div>
          
          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal4">
-          Débouché
+          Débouchés
          </button>
          
          
@@ -295,7 +295,7 @@
           <div>
          
          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal6">
-          Débouché
+          Débouchés
          </button>
          
          

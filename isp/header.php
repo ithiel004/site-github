@@ -42,7 +42,7 @@
 						<a class="nav-link active" aria-current="page" href="../galleri/gallerie.php">Galerie</a>
 					</li>
 					<li class=" nav-item">
-						<a class="nav-link active" aria-current="page" href="../ISPATEC/index.php">Contact</a>
+						<a class="nav-link active" aria-current="page" href="../ISPATEC/index.php">Contactez-nous</a>
 					</li>
 					<li class="nav-item">
 						<a href=""><button type="button" class="btn btn-secondary">Notre App</button></a>

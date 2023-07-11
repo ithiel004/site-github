@@ -25,7 +25,7 @@
   <div class="overlay"></div>
   <?php require_once("../isp/header.php") ?>
 
-  <section>
+  <section class="rel">
     <div class="picture">
       <h1 style="text-align:center; color: #fff; ">Contact</h1>
     </div>
